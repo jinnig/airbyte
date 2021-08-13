@@ -34,6 +34,7 @@
     * [Asana](integrations/sources/asana.md)
     * [AWS CloudTrail](integrations/sources/aws-cloudtrail.md)
     * [Braintree](integrations/sources/braintree.md)
+    * [Braintree (standalone)](integrations/sources/braintree-standalone.md)
     * [BigQuery](integrations/sources/bigquery.md)
     * [Cart](integrations/sources/cart.md)
     * [Chargebee](integrations/sources/chargebee.md)
